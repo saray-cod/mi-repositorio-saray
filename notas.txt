@@ -1,4 +1,1 @@
-holi
-el panadero con el pan 
-cambios en el repositorio clonado
-se realiza cambios en el archivo notas.txt
+este es el cambio desde la rama de funcionalidad
